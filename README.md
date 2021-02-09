@@ -9,7 +9,7 @@ Capture and replay first code automatically: python CarPwner.py -f 315060000 -r 
 Capture and wait for keypress to replay first code: python CarPwner.py -f 315060000 -r 1818 -m -40 -o -2500000 -O capture.io -k
 Load previous captures to replay: python CarPwner.py -I capture.io
 
-Scan and replay of the code is borrowed from Andrew Macpherson's RfCatHelpers https://github.com/AndrewMohawk/RfCatHelpers
+Scan and replay of the code is borrowed from Andrew Macpherson's RfCatHelpers.
 
 About
 rfcat-rolljam is a python script to easily "jam", capture, and replay rolling code signals using two yard stick one devices and rfcat.
