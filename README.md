@@ -10,7 +10,3 @@ Capture and wait for keypress to replay first code: python CarPwner.py -f 315060
 Load previous captures to replay: python CarPwner.py -I capture.io
 
 Scan and replay of the code is borrowed from Andrew Macpherson's RfCatHelpers.
-
-# Requirements 
-
-Linux machine + 2 Yard Stick One
